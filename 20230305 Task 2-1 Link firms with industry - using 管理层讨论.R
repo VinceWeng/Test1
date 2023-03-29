@@ -9,6 +9,7 @@ library(readxl) # 读industry_data_2.xlsx
 #789
 # 101112
 # 13
+# 14
 # install.packages("dplyr") # 删除包含半年报的信息
 library(dplyr)
 
