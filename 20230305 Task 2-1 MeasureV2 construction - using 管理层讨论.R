@@ -7,7 +7,7 @@ library(quanteda)
 library(quanteda.textstats)
 library(doParallel)
 source("./Auxiliary functions - adjusted.R")
-
+# 000
 # -------------
 # 1. 读取每年各公司年报中各关键词的tfidf信息
 # loading firm tf idf data
