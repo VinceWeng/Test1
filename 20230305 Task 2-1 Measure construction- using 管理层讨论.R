@@ -8,6 +8,7 @@ library(quanteda.textstats)
 library(doParallel)
 # 567
 # 111213
+# 141516
 source("./Auxiliary functions - adjusted.R")
 
 # -------------
