@@ -5,7 +5,7 @@ library(jiebaR)
 library(quanteda)
 library(quanteda.textstats)
 library(readxl) # 读industry_data_2.xlsx
-
+#123
 # install.packages("dplyr") # 删除包含半年报的信息
 library(dplyr)
 

@@ -6,7 +6,7 @@ library(jiebaR)
 library(quanteda)
 library(quanteda.textstats)
 library(doParallel)
-
+# 567
 source("./Auxiliary functions - adjusted.R")
 
 # -------------
