@@ -9,6 +9,7 @@ library(doParallel)
 source("./Auxiliary functions - adjusted.R")
 # 000
 # 1111
+# 222
 # -------------
 # 1. 读取每年各公司年报中各关键词的tfidf信息
 # loading firm tf idf data
